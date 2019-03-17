@@ -17,7 +17,7 @@
 from get_as import get_as
 
 token = get_as()
-//use token to request here
+# use token to request here
 ```
 
 ## Java
